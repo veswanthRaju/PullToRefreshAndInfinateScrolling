@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">PullToRefresh</string>
+  <string name="PullToRefreshTab">PullToRefresh</string>
+  <string name="CustomPullToRefreshTab">CustomPullToRefresh</string>
+  <string name="GotoCustomBtnTxt">Goto Custom SlideRefresh</string>
+  <string name="GotoHomeBtnTxt">Goto Default SlideRefresh</string>
+</resources>
